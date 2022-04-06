@@ -6,6 +6,7 @@ Um conjunto de serviços conectados via rabbitmq para a utilização em uma apli
 ## Funcionalidades
 
 - Envio de mensagens em tempo real sem persistência
+- Criptografia ponta-a-ponta (WIP)
 - Chamada de Voz e vídeo (WIP)
 
 ## Apêndice
